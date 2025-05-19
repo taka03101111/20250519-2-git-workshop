@@ -22,7 +22,7 @@ var shapes = [
       1, 1, 1 ]
 ];
 var colors = [
-    'green', 'green', 'green', 'green', 'green', 'green', 'green'
+    'bule', 'bule', 'blue', 'bule', 'bule', 'bule', 'bule'
 ];
 
 // creates a new 4x4 shape in global variable 'current'
